@@ -1,0 +1,40 @@
+# CMake build artifacts
+cmake-build-debug/
+cmake-build-release/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build/
+*.ninja
+*.cbp
+
+# Compiled binaries
+*.o
+*.elf
+*.bin
+*.hex
+*.out
+*.axf
+*.map
+
+# Backup files
+*.bak
+*.orig
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# CCS (Code Composer Studio)
+Debug/
+Release/
+*.ccsproject
+*.cproject
+*.project
+*.ccxml
+*.launch
+
+# OS
+.DS_Store
+Thumbs.db

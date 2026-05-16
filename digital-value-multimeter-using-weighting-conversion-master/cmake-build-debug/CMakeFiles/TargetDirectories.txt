@@ -1,3 +1,0 @@
-/Users/mainuddinrobin/Downloads/digital-value-multimeter-using-weighting-conversion-master/cmake-build-debug/CMakeFiles/mcl3_1.dir
-/Users/mainuddinrobin/Downloads/digital-value-multimeter-using-weighting-conversion-master/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mainuddinrobin/Downloads/digital-value-multimeter-using-weighting-conversion-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
